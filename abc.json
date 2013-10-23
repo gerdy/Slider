@@ -1,0 +1,14 @@
+{
+    "name": "slider",
+    "version": "1.0",
+    "desc": "滑块",
+    "cover": "",
+    "tag":"slider",
+    "author": {
+        "name": "jixiangac",
+        "email": "jixiangac@gmail.com",
+        "page": "https://github.com/jixiangac"
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
