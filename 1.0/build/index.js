@@ -382,7 +382,11 @@ KISSY.add('gallery/slider/1.0/index',function (S, Node,Base) {
 
     return Slider;
 }, {
-    requires:['node', 'base']
+    requires:[
+      'node', 
+      'base',
+      './slider.css'
+    ]
 });
 
 

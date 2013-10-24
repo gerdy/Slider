@@ -376,7 +376,11 @@ KISSY.add(function (S, Node,Base) {
 
     return Slider;
 }, {
-    requires:['node', 'base']
+    requires:[
+      'node', 
+      'base',
+      './slider.css'
+    ]
 });
 
 

@@ -10,20 +10,27 @@
 
     S.use('gallery/slider/1.0/index', function (S, Slider) {
          var slider = new Slider({
-              element : '#container'//容器，容器或者容器的父元素必须有个固定宽度
+             element : '#container'//容器，容器或者容器的父元素必须有个固定宽度
            , values : [0, 54]//滑块的百分比
          });
-    })
+    });
 
 ## 配置说明
    
    + element {id}
+
      容器，容器或者容器的父元素必须有个固定宽度
+
    + values {number || Array}
+
      设定滑块的值（百分比），最多两个滑块,当两个模块时值为Array,如果只有一个滑块，可以是number或者Array的值为一个(例如[37])
+
    + max {number}
+
      滑动的最大百分比限定，默认100
+
    + mini {number}
+
      滑动的最小百分比限定，默认0
 
 ## 方法
