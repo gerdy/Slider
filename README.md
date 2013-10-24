@@ -1,5 +1,7 @@
 ## slider
 
+   slider是滑动条组件。
+   
 * 版本：1.0
 * 教程：[http://gallery.kissyui.com/slider/1.0/guide/index.html](http://gallery.kissyui.com/slider/1.0/guide/index.html)
 * demo：[http://gallery.kissyui.com/slider/1.0/demo/index.html](http://gallery.kissyui.com/slider/1.0/demo/index.html)
